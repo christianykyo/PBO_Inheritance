@@ -21,7 +21,7 @@ b. GetName = untuk memanggil nama classnya
 # LATIHAN 6
 ![Alt Text](https://github.com/christianykyo/PBO_Inheritance/blob/master/PBO_Lat6.png)
 
-# TUGAS PRAKTIKUM
+# TUGAS PRAKTIKUM (Nama Angkatan)
 ![Alt Text](https://github.com/christianykyo/PBO_Inheritance/blob/master/Praktikum.png)
 
 # KESIMPULAN
